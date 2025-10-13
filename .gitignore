@@ -1,0 +1,14 @@
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+UserSettings/
+[Mm]emoryCaptures/
+*.csproj
+*.sln
+*.user
+*.pidb
+*.opendb
+*.mdb
